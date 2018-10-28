@@ -1,0 +1,12 @@
+Bienvenue dans le README pour le projet lemIPC.
+
+Pour lancer le programme 2 choix s'offre à vous.
+
+1er choix:
+	Lancer le script "./script.sh".
+
+2eme choix:
+	Compilez le programme avec make.
+	Lancer la commande ex: "./lemipc {FTOK PATH} {1|2}".
+	Attention le jeu ce lancera une fois que deux joueurs
+	de l'équipe 1 et l'équipe 2 serront lancés.
